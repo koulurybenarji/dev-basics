@@ -1,0 +1,23 @@
+#one
+{
+    border: 2px solid black;
+    background-color:lightcyan;
+}
+#cp
+{
+   text-align: left;
+   padding-right: 750px;
+}
+#dsa
+{
+   text-align: center;
+   padding-right: 750px;
+}
+.hide
+{
+    display: none;
+}
+#articles
+{
+  text-align: end;
+}
